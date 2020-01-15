@@ -1,0 +1,4 @@
+main: com.MossyMine.BasicElevator.App
+name: BasicElevator
+version: 0.1
+api-version: 1.14
