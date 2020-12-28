@@ -1,0 +1,7 @@
+name: BasicElevator
+version: ${project.version}
+main: com.mossymine.basicelevator.BasicElevator
+api-version: 1.16
+authors: [ MossyMine ]
+description: Port of a basic elevator plugin
+website: http://www.mossymine.com
